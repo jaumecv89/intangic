@@ -1,0 +1,53 @@
+.peer-benchmarking {
+  padding: 37px;
+}
+
+.peer-description {
+  font-size: 16px;
+  font-weight: 400;
+  color: #000000;
+  line-height: 24px;
+  max-width: 735px;
+  opacity: 0.5;
+  margin: 0;
+}
+
+.peer-legend {
+  display: flex;
+  gap: 16px;
+  margin-top: 33px;
+}
+
+.legend-item {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.legend-acme {
+  width: 100%;
+  height: 1px;
+  border-top: 2px dotted #000000;
+}
+
+.legend-color {
+  width: 26px;
+  height: 26px;
+  border-radius: 3px;
+}
+
+.legend-text {
+  display: flex;
+  flex-direction: column;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 13px;
+}
+
+.legend-separator {
+  width: 100%;
+  height: 1px;
+  background-color: #000000;
+  opacity: 0.1;
+  margin-top: 27px;
+}

@@ -1,5 +1,7 @@
 # LineChart Component
 
+https://intangic-jc.netlify.app/
+
 ## Features
 
 This LineChart component is designed to display a graph with various data points and risk levels. The component includes the following features:
